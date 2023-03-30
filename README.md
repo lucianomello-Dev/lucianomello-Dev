@@ -2,8 +2,9 @@
                                                                                 
 
 ### Olá! Eu sou o Luciano Mello. 👋
-Desenvolvedor web, especializado em Front-end e estudante de Back-end, com foco em desenvolvimento Full Stack Java Script.<br>
+<strong>Desenvolvedor web,</strong> especializado em <strong>Front-end</strong> e estudante de Back-end, com foco em desenvolvimento Full Stack Java Script.<br>
 <br>
+
 
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucianomello.dev@gmail.com)
 [![whatssap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551984399352?text=Ol%C3%A1%21+Luciano+Mello.+Podemos+conversar%2C+sobre+seu+trabalho+de+desenvolvedor%3F+Estou+interessado+em+seu+Job.)
@@ -12,7 +13,8 @@ Desenvolvedor web, especializado em Front-end e estudante de Back-end, com foco 
 
 
  [![lucianomello-dev GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianomello-dev&theme=algolia&show_icons=true)                
-           
+
+[![Meu website](https://dyn-qrcode.vercel.app/api?url=https://www.devpleno.com)] 
 
 ### Tecnologias que fazem parte do meu dia a dia:
 
